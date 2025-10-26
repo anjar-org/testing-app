@@ -1,0 +1,12 @@
+DB_HOST=db
+POSTGRES_PASSWORD=default_postgres_password
+DB_PASSWORD=default_db_password
+DB_SCHEMA=default_db_schema
+DB_USER=default_db_user
+DEBUG=False
+SECRET_KEY=default_secret_key
+NEXT_AUTH_SECRET_KEY=default_next_auth_secret
+MAILJET_APIKEY=null
+MAILJET_SECRET=null
+WEBDOMAIN=default_webdomain
+TRAEFIK_CERTIFICATESRESOLVERS_MYRESOLVER_ACME_EMAIL=devops@akvo.org
